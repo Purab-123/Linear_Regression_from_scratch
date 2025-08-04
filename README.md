@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📊 Linear Regression from Scratch
 
@@ -80,3 +81,7 @@ The training function:
 ## ✅ Conclusion
 
 This notebook provides a clear understanding of how linear regression works internally, and gives a side-by-side comparison with Scikit-learn's black-box implementation.
+=======
+# Linear_Regression_from_scratch
+This is my project of building a Linear Regression model from scratch.
+>>>>>>> 575aec94102e714ef83ef06fc59ab6fdebda9d60
